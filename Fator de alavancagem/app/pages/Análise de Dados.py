@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.express as px
 import time
 
-url_contrapartes = "../data/contrapartes.xlsx"
-url_dados_fa = "../data/dados_fa.csv"
+url_contrapartes = "data/contrapartes.xlsx"
+url_dados_fa = "data/dados_fa.csv"
 
 st.set_page_config(page_title="Análise de Dados")
 st.title("Análise de dados")
